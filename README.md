@@ -17,7 +17,7 @@ Logistic Regression modeli işlenmiş veri ile train edildikten sonra ilgili mod
 Kod dosyasında da bulunan ilgili model sonuç raporu aşağıdadır:
 
 ```
-ccuracy: 0.8
+Accuracy: 0.8
 Confusion Matrix:
  [[34  1]
  [11 14]]
