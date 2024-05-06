@@ -16,7 +16,8 @@ Logistic Regression modeli işlenmiş veri ile train edildikten sonra ilgili mod
 
 Kod dosyasında da bulunan ilgili model sonuç raporu aşağıdadır:
 
-Accuracy: 0.8
+```
+ccuracy: 0.8
 Confusion Matrix:
  [[34  1]
  [11 14]]
@@ -50,4 +51,4 @@ Classification Report (En iyi Hiperparametre):
    macro avg       0.83      0.75      0.75        60
 weighted avg       0.82      0.78      0.77        60
 
-
+```
